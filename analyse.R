@@ -2,7 +2,7 @@
 library(tidyverse)
 library(ratdat)
 #graphique
-ggplot(data = complete_old, aes(x=weight, y=hindfoot_length)) + geom_point(color="red", alpha=0.1)
+ggplot(data = complete_old, aes(x=weight, y=hindfoot_length)) + geom_point(color="red4", alpha=0.2)
 
 #commande pour git
 #git add/ git commit -m / git status / git log
