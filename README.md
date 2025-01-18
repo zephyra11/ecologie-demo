@@ -1,1 +1,1 @@
-atelier git inspirer par datacarpentry donné par udem
+atelier git inspiré par datacarpentry donné par udem :)
